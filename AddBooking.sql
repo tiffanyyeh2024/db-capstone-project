@@ -1,4 +1,4 @@
-USE littlelemondb;
+USE little_lemon_db;
 DROP PROCEDURE IF EXISTS AddBooking;
 DELIMITER //
 
